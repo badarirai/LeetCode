@@ -13,5 +13,5 @@ public:
 
         return x == rev || x == rev / 10;
     }
-    //BadariRAI
+    //Badari
 };
