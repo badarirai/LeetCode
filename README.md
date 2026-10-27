@@ -53,4 +53,12 @@ My LeetCode Progress here see
 | ------- |
 | [0118-pascals-triangle](https://github.com/badarirai/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/badarirai/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/badarirai/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/badarirai/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
