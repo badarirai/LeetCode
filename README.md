@@ -8,6 +8,7 @@ My LeetCode Progress here see
 | ------- |
 | [0002-add-two-numbers](https://github.com/badarirai/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/badarirai/LeetCode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/badarirai/LeetCode/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@ My LeetCode Progress here see
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/badarirai/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/badarirai/LeetCode/tree/master/0136-single-number) |
 ## Quicksort
 |  |
@@ -82,4 +84,9 @@ My LeetCode Progress here see
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/badarirai/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/badarirai/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/badarirai/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
