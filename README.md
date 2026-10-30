@@ -6,6 +6,7 @@ My LeetCode Progress here see
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/badarirai/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/badarirai/LeetCode/tree/master/0009-palindrome-number) |
 ## Array
 |  |
@@ -56,9 +57,11 @@ My LeetCode Progress here see
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/badarirai/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/badarirai/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/badarirai/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/badarirai/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
