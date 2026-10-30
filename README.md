@@ -78,4 +78,8 @@ My LeetCode Progress here see
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/badarirai/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/badarirai/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
